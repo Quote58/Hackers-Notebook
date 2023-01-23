@@ -4,7 +4,7 @@
 
 **Still in early Alpha, many features are in active development**
 
-The Hacker's Notebook is a program designed to solve two problems.
+The Hacker's Notebook is a program designed to solve **two** problems.
 
 The **first** is a lack of hex editors available which are:
 - Cross platform
