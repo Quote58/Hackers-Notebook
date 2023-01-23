@@ -1,6 +1,9 @@
 # The Hackers Notebook
 
 <img width="962" alt="Screenshot 2023-01-22 at 7 05 39 PM" src="https://user-images.githubusercontent.com/15618772/213947723-9551b82a-48f0-43ae-ad1e-6df63ca9ed94.png">
+
+**Still in early Alpha, many features are in active development**
+
 The Hackers Notebook is a program designed to solve two problems.
 
 The **first** is a lack of hex editors available which are:
