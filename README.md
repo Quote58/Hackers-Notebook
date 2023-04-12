@@ -47,3 +47,6 @@ You can even edit colours with the native system colour picker, and it will auto
 
 ![Dec-09-2022_21-40-53](https://user-images.githubusercontent.com/15618772/213949256-8e48c664-2ac2-405e-bb0c-150c897ac3ae.gif)
 
+## For Reference
+Here is a breakdown of the hex editor view in terms of wxWidgets objects. The dotted lines represent sizers.
+<img width="651" alt="Screenshot 2023-04-12 at 2 59 24 PM" src="https://user-images.githubusercontent.com/15618772/231558667-28a207eb-9e29-49e0-a267-e5a0080eb68a.png">
